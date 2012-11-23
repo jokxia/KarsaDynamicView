@@ -1,0 +1,102 @@
+{
+	"UITableView": {
+        "KarsaTableView":
+        [
+         [
+          
+          {
+          "identifier":"cellID",
+          "image1Name":"http://img01.taobaocdn.com/tps/i1/T15WZcXoNbXXaSJ43P-230-160.jpg",
+          "image1Frame":[0, 10, 100, 100],
+          "label1Frame":[0, 110, 100, 20],
+          "label1Text":"test",
+          "image2Name":"image1",
+          "image2Frame":[110, 10, 100, 100],
+          "label2Frame":[110, 110, 100, 20],
+          "label2Text":"test",
+          "image3Name":"image1",
+          "image3Frame":[220, 10, 100, 100],
+          "label3Frame":[220, 110, 100, 20],
+          "label3Text":"test"
+          },
+          {
+          "identifier":"cellID",
+          "image1Name":"http://img01.taobaocdn.com/tps/i1/T15WZcXoNbXXaSJ43P-230-160.jpg",
+          "image1Frame":[0, 10, 100, 100],
+          "label1Frame":[0, 110, 100, 20],
+          "label1Text":"test",
+          "image2Name":"image1",
+          "image2Frame":[110, 10, 100, 100],
+          "label2Frame":[110, 110, 100, 20],
+          "label2Text":"test",
+          "image3Name":"image1",
+          "image3Frame":[220, 10, 100, 100],
+          "label3Frame":[220, 110, 100, 20],
+          "label3Text":"test"
+          }
+          ],
+         [
+          
+          {
+          "identifier":"cellID",
+          "image1Name":"http://img01.taobaocdn.com/tps/i1/T15WZcXoNbXXaSJ43P-230-160.jpg",
+          "image1Frame":[0, 10, 100, 100],
+          "label1Frame":[0, 110, 100, 20],
+          "label1Text":"test",
+          "image2Name":"image1",
+          "image2Frame":[110, 10, 100, 100],
+          "label2Frame":[110, 110, 100, 20],
+          "label2Text":"test",
+          "image3Name":"image1",
+          "image3Frame":[220, 10, 100, 100],
+          "label3Frame":[220, 110, 100, 20],
+          "label3Text":"test"
+          },
+          {
+          "identifier":"cellID",
+          "image1Name":"http://img01.taobaocdn.com/tps/i1/T15WZcXoNbXXaSJ43P-230-160.jpg",
+          "image1Frame":[0, 10, 100, 100],
+          "label1Frame":[0, 110, 100, 20],
+          "label1Text":"test",
+          "image2Name":"image1",
+          "image2Frame":[110, 10, 100, 100],
+          "label2Frame":[110, 110, 100, 20],
+          "label2Text":"test",
+          "image3Name":"image1",
+          "image3Frame":[220, 10, 100, 100],
+          "label3Frame":[220, 110, 100, 20],
+          "label3Text":"test"
+          }
+          ]
+         ],
+        "KarsaCell":[
+                     {
+                     "identifier":"cellID",
+                     "UIImageView":{
+                     "imageName":"image1Name",
+                     "frame":"image1Frame"
+                     },
+                     "UILabel":{
+                     "frame":"label1Frame",
+                     "text":"label1Text"
+                     },
+                     "UIImageView":{
+                     "imageName":"image2Name",
+                     "frame":"image2Frame"
+                     },
+                     "UILabel":{
+                     "frame":"label2Frame",
+                     "text":"label12ext"
+                     },
+                     "UIImageView":{
+                     "imageName":"image3Name",
+                     "frame":"image3Frame"
+                     },
+                     "UILabel":{
+                     "frame":"label3Frame",
+                     "text":"label3Text"
+                     }
+                     }
+                     ]
+    }
+}
